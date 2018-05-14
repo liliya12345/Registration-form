@@ -1,0 +1,28 @@
+.col-md-4{
+    background: blue;
+
+}
+img{
+    width: 100%;
+    height: 300px;
+}
+.col-lg-2{
+    float: left;
+}
+.tvprogram{
+    list-style: none;
+}
+.today{
+    
+    color:rgb(52, 30, 71);
+}
+body{
+    background-image: url("bild/bg-01.jpg");
+}
+.center-block{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top:5%;
+}
+
